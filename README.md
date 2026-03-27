@@ -1,21 +1,18 @@
 # Pickleball Wiki Tools
 
-This repository contains lightweight tools, resources, and supporting files related to Pickleball Wiki.
+Pickleball Wiki Tools is a small open-source repository of lightweight tools, workflow files, documentation, and utility resources that support the Pickleball Wiki project.
 
-It serves as a public workspace for items such as:
-
-- project notes
+The repository is used for public-facing resources related to:
+- content workflows
 - documentation
 - utility files
-- workflows
-- small public-facing resources
+- small experiments
+- publishing support
+
+## Why this repo exists
+
+This repository makes selected supporting resources for Pickleball Wiki public and reusable, with an emphasis on simple workflows, clarity, and lightweight tooling.
 
 ## About Pickleball Wiki
 
-Pickleball Wiki is an independent media and review platform focused on:
-
-- pickleball gear comparisons
-- practical buying guides
-- transparent product recommendations
-
-Website: https://pickleball-wiki.com
+[Pickleball Wiki](https://pickleball-wiki.com/) is an independent media and review platform focused on pickleball gear comparisons, practical buying guides, and transparent product recommendations.
